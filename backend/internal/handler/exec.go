@@ -4,7 +4,6 @@ import (
 	"context"
 	"encoding/json"
 	"io"
-	"net/http"
 	"sync"
 
 	"github.com/k8s-dashboard/internal/kubernetes"
